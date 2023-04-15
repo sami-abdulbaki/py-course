@@ -1,3 +1,5 @@
 # py-course
+
 advanced python course
-pandas
+- numpy
+- pandas
