@@ -1,3 +1,3 @@
 # py-course
-advanced python
-numpy
+advanced python course
+pandas
